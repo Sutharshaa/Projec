@@ -7,7 +7,7 @@ public class India extends TamiladuN {
 	public India() {
 
 		System.out.println("india");
-	
+	System.out.println("father");
 	}
 	
 	public static void main(String[] args) {
